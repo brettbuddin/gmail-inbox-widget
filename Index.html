@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Gmail Inbox</title>
+<style>
+    @import "CSS/Main.css";
+</style>
+<script type="text/javascript" src="JavaScript/Main.js" charset="utf-8"/>
+<script type="text/javascript" src="JavaScript/Gmail.js" charset="utf-8"/>
+<script type="text/javascript" src="JavaScript/Prefs.js" charset="utf-8"/>
+<script type="text/javascript" src="JavaScript/Apple.js" charset="utf-8"/>
+</head>
+<body onload="loaded();">
+	<div id="front" onmousemove="mousemove(event);" onmouseout="mouseexit(event);">
+		<img id="loading" src="Images/loading.gif" />
+		<div id="flippers">
+			<div id="numberWrapper">
+				<div id="number">~</div>
+			</div>
+			<div class="flip" id="fliprollie"></div>
+			<div class="flip" id="flip" onclick="showBack(event);" onmouseover="enterflip(event);" onmouseout="exitflip(event);"></div>
+		</div>
+	</div>
+	<div id="back">
+		<div id="fieldWrapper">
+			<div id="left">
+				<span>Username:</span>
+				<span>Password:</span>
+			</div>
+			<div id="right">
+				<input id="userName" value="" size="18" onKeyPress="Prefs.submitOnEnter(event);"></input>
+				<input id="passWord" value="" type="password" size="18" onKeyPress="Prefs.submitOnEnter(event);"></input>
+			</div>
+			<div id="copy">Version 2.3.2 <span id="project" onClick="goToProjectPage();">More Info</span>.<br />Created by Brett Buddin.</div>
+		</div>
+		<div id="done" onclick="showFront();"></div>
+	</div>
+</body>
+</html>

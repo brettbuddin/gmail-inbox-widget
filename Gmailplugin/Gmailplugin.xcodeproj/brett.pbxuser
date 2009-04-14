@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = macosx10.5;
+		activeTarget = 8D5B49AC048680CD000E48DA /* Gmailplugin */;
+		codeSenseManager = 8BCDC4690F941677009C3E7C /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 261363521;
+			PBXWorkspaceStateSaveDate = 261363521;
+		};
+		perUserProjectItems = {
+			8BCDC45B0F941677009C3E7C /* PBXTextBookmark */ = 8BCDC45B0F941677009C3E7C /* PBXTextBookmark */;
+			8BCDC45C0F941677009C3E7C /* PBXTextBookmark */ = 8BCDC45C0F941677009C3E7C /* PBXTextBookmark */;
+			8BCDC45F0F941677009C3E7C /* PBXTextBookmark */ = 8BCDC45F0F941677009C3E7C /* PBXTextBookmark */;
+			8BCDC4600F941677009C3E7C /* PBXTextBookmark */ = 8BCDC4600F941677009C3E7C /* PBXTextBookmark */;
+			8BCDC4620F941677009C3E7C /* PlistBookmark */ = 8BCDC4620F941677009C3E7C /* PlistBookmark */;
+			8BCDC4630F941677009C3E7C /* PBXTextBookmark */ = 8BCDC4630F941677009C3E7C /* PBXTextBookmark */;
+			8BFE00300F9417AB003BECFF /* PlistBookmark */ = 8BFE00300F9417AB003BECFF /* PlistBookmark */;
+			8BFE00310F9417AB003BECFF /* PBXTextBookmark */ = 8BFE00310F9417AB003BECFF /* PBXTextBookmark */;
+			8BFE00320F9417AB003BECFF /* PBXTextBookmark */ = 8BFE00320F9417AB003BECFF /* PBXTextBookmark */;
+			8BFE00330F9417AB003BECFF /* PlistBookmark */ = 8BFE00330F9417AB003BECFF /* PlistBookmark */;
+			8BFE00340F9417AB003BECFF /* PBXTextBookmark */ = 8BFE00340F9417AB003BECFF /* PBXTextBookmark */;
+			8BFE00350F9417AB003BECFF /* PBXTextBookmark */ = 8BFE00350F9417AB003BECFF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8BCDC4680F941677009C3E7C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 105}";
+		};
+	};
+	32DBCF630370AF2F00C91783 /* Gmailplugin_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {582, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 154}";
+		};
+	};
+	8BCDC45B0F941677009C3E7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A2E0F6580974B98A0002A948 /* SaveLogin.h */;
+		name = "SaveLogin.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	8BCDC45C0F941677009C3E7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A2E0F6590974B98A0002A948 /* SaveLogin.m */;
+		name = "SaveLogin.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	8BCDC45F0F941677009C3E7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A2E0F6590974B98A0002A948 /* SaveLogin.m */;
+		name = "SaveLogin.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	8BCDC4600F941677009C3E7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A2E0F6580974B98A0002A948 /* SaveLogin.h */;
+		name = "SaveLogin.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	8BCDC4620F941677009C3E7C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/brett/Downloads/Gmail Inbox/Gmailplugin/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	8BCDC4630F941677009C3E7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 105;
+		vrLoc = 0;
+	};
+	8BCDC4680F941677009C3E7C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	8BCDC4690F941677009C3E7C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8BFE00300F9417AB003BECFF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/brett/Desktop/gmail-inbox-widget/Gmailplugin/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	8BFE00310F9417AB003BECFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF630370AF2F00C91783 /* Gmailplugin_Prefix.pch */;
+		name = "Gmailplugin_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 154;
+		vrLoc = 0;
+	};
+	8BFE00320F9417AB003BECFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 105;
+		vrLoc = 0;
+	};
+	8BFE00330F9417AB003BECFF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/brett/Desktop/gmail-inbox-widget/Gmailplugin/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	8BFE00340F9417AB003BECFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF630370AF2F00C91783 /* Gmailplugin_Prefix.pch */;
+		name = "Gmailplugin_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 154;
+		vrLoc = 0;
+	};
+	8BFE00350F9417AB003BECFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 105;
+		vrLoc = 0;
+	};
+	8D5B49AC048680CD000E48DA /* Gmailplugin */ = {
+		activeExec = 0;
+	};
+	A2E0F6580974B98A0002A948 /* SaveLogin.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 253}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 230}";
+		};
+	};
+	A2E0F6590974B98A0002A948 /* SaveLogin.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1470, 1204}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+}
